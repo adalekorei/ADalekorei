@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently learning Dart and Flutter to build cross-platform mobile applications. My goal is to deepen my understanding of mobile development, enhance my coding skills, and gain practical experience in creating responsive, high-performance apps for both Android and iOS platforms. 1
+I am currently learning Dart and Flutter to build cross-platform mobile applications. My goal is to deepen my understanding of mobile development, enhance my coding skills, and gain practical experience in creating responsive, high-performance apps for both Android and iOS platforms. 
 
 
 # 💻 Tech Stack:
